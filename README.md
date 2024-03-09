@@ -12,7 +12,7 @@ The Stanford Question Answering Dataset (SQuAD) is a popular dataset for machine
 
 The dataset is divided into two subsets: SQuAD1.1 and SQuAD2.0. SQuAD1.1 contains questions that can be answered based on the provided context, while SQuAD2.0 contains unanswerable questions as well.
 
-In this project, we use the SQuAD dataset to fine-tune a HuggingFace model for question answering, and then use the fine-tuned model to build a Gradio interface for interactive question answering.
+In this project, the SQuAD dataset is utilized to fine-tune a HuggingFace model for question answering. Subsequently, the fine-tuned model is used to create a Gradio interface, enabling users to interactively input context and questions to receive answers from the model.
 
 
 ## Installation
