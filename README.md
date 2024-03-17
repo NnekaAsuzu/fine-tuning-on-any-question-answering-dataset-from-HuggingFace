@@ -24,3 +24,8 @@ To run the notebook, install the required libraries:
 !apt install git-lfs
 !pip install datasets
 !pip install transformers datasets torch gradio
+
+
+
+fine-tuning-on-any-question-answering-dataset-from-HuggingFace/gradiowebsitescreenshots
+/Ft gradio1.png
