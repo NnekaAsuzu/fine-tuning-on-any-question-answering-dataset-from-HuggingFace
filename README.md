@@ -13,6 +13,19 @@ The dataset is divided into two subsets: SQuAD1.1 and SQuAD2.0. SQuAD1.1 contain
 
 In this project, the SQuAD dataset is utilized to fine-tune a HuggingFace model (bert-large-uncased-whole-word-masking-finetuned-squad) for question answering. Subsequently, the fine-tuned model is used to create a Gradio interface, enabling users to interactively input context and questions to receive answers from the model.
 
+## App Screenshots
+
+### Gradio Interface
+
+![Gradio Interface 1](/gradiowebsitescreenshots/gradio1.png)
+![Gradio Interface 1](/gradiowebsitescreenshots/gradio2.png)
+![Gradio Interface 1](/gradiowebsitescreenshots/gradio3.png)
+![Gradio Interface 1](/gradiowebsitescreenshots/gradio4.png)
+![Gradio Interface 1](/gradiowebsitescreenshots/gradio5.png)
+
+fine-tuning-on-any-question-answering-dataset-from-HuggingFace/gradiowebsitescreenshots
+/Ft gradio1.png
+
 
 ## Installation
 
@@ -27,5 +40,4 @@ To run the notebook, install the required libraries:
 
 
 
-fine-tuning-on-any-question-answering-dataset-from-HuggingFace/gradiowebsitescreenshots
-/Ft gradio1.png
+
