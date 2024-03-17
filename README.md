@@ -17,7 +17,8 @@ In this project, the SQuAD dataset is utilized to fine-tune a HuggingFace model 
 
 ### Gradio Interface
 
-![Gradio Interface 1](/gradiowebsitescreenshots/gradio1.png)
+![Gradio Interface 1](/gradiowebsitescreenshots/Ft gradio1.png)
+Ft gradio1.png
 ![Gradio Interface 1](/gradiowebsitescreenshots/gradio2.png)
 ![Gradio Interface 1](/gradiowebsitescreenshots/gradio3.png)
 ![Gradio Interface 1](/gradiowebsitescreenshots/gradio4.png)
